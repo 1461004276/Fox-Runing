@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collection
+  - Cherry
+  - Gem
+  - Enemies
+  - deadLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backGround
+    uniqueID: 3065175265
+    locked: 0
+  - name: environment
+    uniqueID: 1193527227
+    locked: 0
+  - name: Player
+    uniqueID: 3818310457
+    locked: 0
+  - name: fromGround
+    uniqueID: 4089122179
+    locked: 0
